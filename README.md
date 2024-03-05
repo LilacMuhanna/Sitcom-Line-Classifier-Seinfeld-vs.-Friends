@@ -1,2 +1,2 @@
 # Seinfeld-or-Friends-
-Assignment III - NLP: Seinfeld or Friends?
+Assignment II - NLP: Seinfeld or Friends?
