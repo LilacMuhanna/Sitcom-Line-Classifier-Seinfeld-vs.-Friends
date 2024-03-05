@@ -1,0 +1,11 @@
+﻿test set accuracy,"[0.5646834373474121, 0.8358068466186523]"
+train set accuracy,"[0.2540731430053711, 0.8717410564422607]"
+Number of trainable parameters,696937
+Number of layers,6
+Regularization methods,dropout
+Number of epochs,5
+Choice of loss function,binary_crossentropy
+Choice of optimizer,adam
+,
+,
+,
