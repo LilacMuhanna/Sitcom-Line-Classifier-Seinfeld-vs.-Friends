@@ -1,5 +1,5 @@
 # Advanced DL course Assignment II
-Contributors: Adi Douchan & Lilac Muhanna
+Contributors: Adi Dokhan & Lilac Muhanna
 
 ## Project Overview
 This project develops a text classification model to determine whether a given piece of dialogue comes from "Friends" or "Seinfeld". We utilized Natural Language Processing techniques to process and vectorize dialogue data from 70,405 lines of scripts. The model aims to accurately classify dialogues into their respective TV shows based on textual content alone.
