@@ -1,13 +1,23 @@
 # Advanced DL course Assignment II
-## Overview
-This project develops a deep learning model to classify text lines between two popular sitcoms: Seinfeld and Friends. Using a dataset of over 70,000 lines, we employed NLP techniques and a Keras neural network to differentiate between the dialogues of the two shows.
+Contributors: Adi Douchan & Lilac Muhanna
+
+## Project Overview
+This project develops a text classification model to determine whether a given piece of dialogue comes from "Friends" or "Seinfeld". We utilized Natural Language Processing techniques to process and vectorize dialogue data from 70,405 lines of scripts. The model aims to accurately classify dialogues into their respective TV shows based on textual content alone.
+
+## Models Developed
+Logistic Regression: Served as a baseline for comparison.
+Deep Learning Model (Neural Network): Used an embedding layer followed by convolutional and dense layers.
 
 ## Results
-Our model achieved an accuracy of 83.39222% on the test set, effectively capturing the distinctive linguistic styles of each sitcom.
+Best Model: Neural Network  
+Validation Accuracy: 84.38%  
+Test Accuracy: 83.39%  
+Test AUC: 0.921  
+The neural network provided the best performance, showcasing the importance of deep learning in handling complex patterns in text data.
 
-## Technologies Used
-Python  
-Keras  
-TensorFlow  
-Natural Language Toolkit (NLTK)
+## Conclusion
+The developed model effectively distinguishes between dialogues from two culturally iconic sitcoms. Future work could explore more complex architectures and additional textual features to further enhance performance.
+
+## Libraries Used
+Pandas, NumPy, Matplotlib, Seaborn, TensorFlow (Keras), Scikit-Learn, NLTK
 
