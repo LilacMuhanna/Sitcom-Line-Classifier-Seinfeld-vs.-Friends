@@ -6,8 +6,8 @@ This project develops a deep learning model to classify text lines between two p
 Our model achieved an accuracy of 83.39222% on the test set, effectively capturing the distinctive linguistic styles of each sitcom.
 
 ## Technologies Used
-Python
-Keras
-TensorFlow
+Python  
+Keras  
+TensorFlow  
 Natural Language Toolkit (NLTK)
 
