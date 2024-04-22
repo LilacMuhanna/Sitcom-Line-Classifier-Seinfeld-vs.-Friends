@@ -1,3 +1,4 @@
+![image](https://github.com/LilacMuhanna/Sitcom-Line-Classifier-Seinfeld-vs.-Friends/assets/155223486/4262283f-03f7-43b5-a771-bc1a94ed2640)
 # Advanced DL course Assignment II
 Contributors: Adi Dokhan & Lilac Muhanna
 
